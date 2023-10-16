@@ -19,7 +19,7 @@
 
 ## 视频讲解
 * B站      
-* youtube   
+* youtube   https://youtu.be/hFYGI4MqAEc
 
 ## 小小声明
 
