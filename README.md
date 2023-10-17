@@ -18,7 +18,7 @@
 * Demo3 对 OpenAI 的依赖和消耗略微有些大，请关注，自行决定测试频率
 
 ## 视频讲解
-* B站      
+* B站       https://www.bilibili.com/video/BV1Fw41167v9/
 * youtube   https://youtu.be/hFYGI4MqAEc
 
 ## 小小声明
